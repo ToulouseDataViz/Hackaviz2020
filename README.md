@@ -62,3 +62,6 @@ Le fichier compléments.xlsx contient des informations supplémentaires : codage
 
 **Ces jeux de données sont à l’usage exclusif de l’Hackaviz 2020. Pour toute autre utilisation veuillez contacter l’association [Toulouse DataViz](mailto:contact@toulouse-dataviz.fr)**
 
+# Historique des version
+* 12/03 - dépot initial
+* 13/03 - des données ont été dupliquées par erreur dans l'Aude, cette version élimine ces doublons. Annule et remplace. 
